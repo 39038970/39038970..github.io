@@ -12,7 +12,6 @@
     width: auto;
     float: left;
     padding:10px;
-    /**border-left: 10px  solid  rgb(205, 221, 255);*/
  
   }
   
@@ -21,7 +20,6 @@
     height:220px;
     float: right;
     padding: 10px;
-   /** border-right: 10px solid  rgb(205, 221, 255);*/
   }
 .Informacion_personal {
     width: 100%;
